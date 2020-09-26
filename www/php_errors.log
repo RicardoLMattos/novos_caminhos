@@ -1,0 +1,26 @@
+[26-Sep-2020 17:28:08 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Event' not found in /usr/share/nginx/html/classes/EventOnline.php:5
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/classes/EventOnline.php on line 5
+[26-Sep-2020 17:35:22 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Event' not found in /usr/share/nginx/html/classes/EventLive.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/classes/EventLive.php on line 8
+[26-Sep-2020 17:35:28 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Event' not found in /usr/share/nginx/html/classes/EventOnline.php:5
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/classes/EventOnline.php on line 5
+[26-Sep-2020 18:05:55 America/Araguaina] PHP Warning:  require(/usr/share/nginx/html/framework/../framework/fsphp.php): failed to open stream: No such file or directory in /usr/share/nginx/html/framework/template.php on line 2
+[26-Sep-2020 18:05:55 America/Araguaina] PHP Stack trace:
+[26-Sep-2020 18:05:55 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/framework/template.php:0
+[26-Sep-2020 18:05:55 America/Araguaina] PHP Fatal error:  require(): Failed opening required '/usr/share/nginx/html/framework/../framework/fsphp.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/framework/template.php on line 2
+[26-Sep-2020 18:05:55 America/Araguaina] PHP Stack trace:
+[26-Sep-2020 18:05:55 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/framework/template.php:0
+[26-Sep-2020 18:06:36 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Event' not found in /usr/share/nginx/html/classes/EventLive.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/classes/EventLive.php on line 8
+[26-Sep-2020 18:07:14 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Event' not found in /usr/share/nginx/html/classes/EventOnline.php:5
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/classes/EventOnline.php on line 5
