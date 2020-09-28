@@ -24,3 +24,19 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /usr/share/nginx/html/classes/EventOnline.php on line 5
+[28-Sep-2020 10:33:09 America/Araguaina] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[28-Sep-2020 10:33:09 America/Araguaina] PHP Fatal error:  Unknown: Failed opening required '/usr/share/nginx/html/index.php' (include_path='.:/usr/local/lib/php') in Unknown on line 0
+[28-Sep-2020 10:33:24 America/Araguaina] PHP Warning:  require(/usr/share/nginx/html/../framework/config.php): failed to open stream: No such file or directory in /usr/share/nginx/html/index 2.php on line 2
+[28-Sep-2020 10:33:24 America/Araguaina] PHP Stack trace:
+[28-Sep-2020 10:33:24 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index 2.php:0
+[28-Sep-2020 10:33:24 America/Araguaina] PHP Fatal error:  require(): Failed opening required '/usr/share/nginx/html/../framework/config.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/index 2.php on line 2
+[28-Sep-2020 10:33:24 America/Araguaina] PHP Stack trace:
+[28-Sep-2020 10:33:24 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index 2.php:0
+[28-Sep-2020 10:35:19 America/Araguaina] PHP Warning:  require(/usr/share/nginx/html/../framework/config.php): failed to open stream: No such file or directory in /usr/share/nginx/html/index.php on line 2
+[28-Sep-2020 10:35:19 America/Araguaina] PHP Stack trace:
+[28-Sep-2020 10:35:19 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[28-Sep-2020 10:35:19 America/Araguaina] PHP Fatal error:  require(): Failed opening required '/usr/share/nginx/html/../framework/config.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/index.php on line 2
+[28-Sep-2020 10:35:19 America/Araguaina] PHP Stack trace:
+[28-Sep-2020 10:35:19 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[28-Sep-2020 11:30:03 America/Araguaina] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[28-Sep-2020 11:30:04 America/Araguaina] PHP Fatal error:  Unknown: Failed opening required '/usr/share/nginx/html/index.php' (include_path='.:/usr/local/lib/php') in Unknown on line 0
