@@ -18,14 +18,12 @@
 
 function checkPalindrome($inputString)
 {    
-
-$original = "zzzazzazz";
-
+    $original = "zzzazzazz";
+    
     if(checkPalindrome($original)){   
         echo "true";   
-}  
+    }  
     else {   
         echo "false";   
-}
-
+    }
 } 
